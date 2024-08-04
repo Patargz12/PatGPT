@@ -1,4 +1,4 @@
-// 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
+
 
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
